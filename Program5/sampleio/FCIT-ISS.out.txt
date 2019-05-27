@@ -1,0 +1,72 @@
+Cannot Perform PRINTMEMBERS Command:
+	There are currently no participants in the FCIT-ISS system.
+Cannot Perform QUIT Command:
+	MAC 56784 not found in the FCIT-ISS system.
+Cannot Perform MOVEDEVICES Command:
+	There are currently no participants in the FCIT-ISS system.
+Cannot Perform SHOWCONNECTIONS Command:
+	MAC 56784 - This MAC Address is not in the FCIT-ISS system.
+Homer Simpson, MAC 56784, joined the FCIT-ISS system.
+Marge Simpson, MAC 65324, joined the FCIT-ISS system.
+Bart Simpson, MAC 35477, joined the FCIT-ISS system.
+Ned Flanders, MAC 22379, joined the FCIT-ISS system.
+Cannot Perform UNLINK Command:
+	MAC 56784 and MAC 65324 are not currently linked.
+MAC 56784 and MAC 65324 are now linked.
+MAC 56784 and MAC 35477 are now linked.
+Cannot Perform LINK Command:
+	MAC 23493 - This MAC Address is not in the FCIT-ISS system.
+Found:  MAC 35477, Bart Simpson, currently at position (18, 17), 1 Link
+Found:  MAC 56784, Homer Simpson, currently at position (14, 22), 2 Links
+Found:  MAC 65324, Marge Simpson, currently at position (20, 19), 1 Link
+Maude Flanders, MAC 12352, joined the FCIT-ISS system.
+Cannot Perform JOIN Command:
+	MAC 56784, Homer Simpson - already a participant in the FCIT-ISS system.
+Connections for MAC 35477, Bart Simpson, currently at position (18, 17):
+	There are a total of 1 link(s).
+	There are 1 active link(s) within the broadcast range of 30:
+		MAC 56784, Homer Simpson, currently at position (14, 22)
+MAC 22379 and MAC 12352 are now linked.
+MAC 22379 and MAC 56784 are now linked.
+Cannot Perform LINK Command:
+	MAC 56784 and MAC 65324 are already linked.
+All devices successfully moved.
+Found:  MAC 56784, Homer Simpson, currently at position (39, 1), 3 Links
+Found:  MAC 22379, Ned Flanders, currently at position (4, 24), 2 Links
+Found:  MAC 12352, Maude Flanders, currently at position (6, 30), 1 Link
+MAC 56784 and MAC 12352 are now linked.
+Found:  MAC 56784, Homer Simpson, currently at position (39, 1), 4 Links
+Connections for MAC 56784, Homer Simpson, currently at position (39, 1):
+	There are a total of 4 link(s).
+	There are 2 active link(s) within the broadcast range of 20:
+		MAC 35477, Bart Simpson, currently at position (29, 14)
+		MAC 65324, Marge Simpson, currently at position (43, 17)
+All devices successfully moved.
+MAC 56784 and MAC 22379 are no longer linked.
+Connections for MAC 56784, Homer Simpson, currently at position (9, 8):
+	There are a total of 3 link(s).
+	There are NO active links within the broadcast range of 20.
+Connections for MAC 65324, Marge Simpson, currently at position (46, 2):
+	There are a total of 1 link(s).
+	There are NO active links within the broadcast range of 30.
+MAC 56784 and MAC 65324 are no longer linked.
+MAC 65324 has no links.
+Found:  MAC 56784, Homer Simpson, currently at position (9, 8), 2 Links
+Found:  MAC 22379, Ned Flanders, currently at position (41, 8), 1 Link
+MAC 77777 not found in the FCIT-ISS system.
+MAC 35477 has been removed from the FCIT-ISS system.
+MAC 12352 has been removed from the FCIT-ISS system.
+All devices successfully moved.
+MAC 22379 has no links.
+Cannot Perform UNLINK Command:
+	MAC 12352 - This MAC Address is not in the FCIT-ISS system.
+Cannot Perform UNLINK Command:
+	MAC 12352 - This MAC Address is not in the FCIT-ISS system.
+	MAC 35477 - This MAC Address is not in the FCIT-ISS system.
+Found:  MAC 22379, Ned Flanders, currently at position (6, 18), 0 Links
+MAC 12352 not found in the FCIT-ISS system.
+MAC 56784 and MAC 65324 are now linked.
+Members of FCIT Internet Sharing System:
+	MAC 22379, Ned Flanders, currently at position (6, 18), 0 Links
+	MAC 56784, Homer Simpson, currently at position (45, 49), 1 Link
+	MAC 65324, Marge Simpson, currently at position (29, 2), 1 Link
